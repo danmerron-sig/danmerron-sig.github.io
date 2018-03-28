@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test Title
+title: Contributing to Terraform's AWS provider
 ---
 
-# First Post Header
+# My first contribution! \o/
 
-Some text goes here.
+My first public contribution to the Terrafor AWS provider
